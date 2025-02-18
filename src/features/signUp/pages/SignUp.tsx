@@ -1,7 +1,7 @@
 import { Link } from "react-router"
 import { styled } from "styled-components"
 import { SignUpSchemeType } from "../validationSchemes/signUpScheme"
-import { SignUpForm } from "../components/SignUpForm/SignUpForm"
+import SignUpForm from "../components/SignUpForm/SignUpForm"
 
 const PageContainer = styled.div`
   padding: 0;
