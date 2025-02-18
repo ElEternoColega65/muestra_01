@@ -1,4 +1,16 @@
-Yo solo me he centrado en el Frontend dado que es lo que soy.
+Pasos para ejercutarlo:
+
+pnpm install 
+
+pnpm run dev
+
+cd ./backend
+
+npm install
+
+npm start
+
+
 
 Este proyecto usa Redux Toolkit y RTK Query.
 
